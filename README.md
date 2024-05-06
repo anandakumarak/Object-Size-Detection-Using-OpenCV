@@ -12,7 +12,7 @@
   <h2>Installation</h2>
   <ol>
       <li>Clone the repository:</li>
-      <pre><code>git clone https://github.com/your-username/your-repository.git</code></pre>
+      <pre><code>https://github.com/anandakumarak/Object-Size-Detection-Using-OpenCV.git</code></pre>
       <li>Install dependencies:</li>
       <pre><code>pip install opencv-python numpy</code></pre>
   </ol>
